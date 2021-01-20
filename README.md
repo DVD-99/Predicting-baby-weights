@@ -8,7 +8,7 @@ Linear regression is perhaps one of the most well known and well understood algo
 * The last column are the baby weights.
 * data-description.txt has detailed explanation of each feature.
 
-The **ipynb** file is divided into two tasks
+The ```linear_regression_SGD.ipynb``` is divided into two tasks
 1. Preprocessing of Data & Data Analysis.
 2. Implementing the linear regression using gradient descent.
 
